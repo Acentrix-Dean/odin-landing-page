@@ -11,3 +11,11 @@ header {
 .header-left {
   margin-right: auto;
 }
+
+.section-one {
+  display: flex;
+}
+
+.section-one-left {
+  max-width: 50%;
+}
