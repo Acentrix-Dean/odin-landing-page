@@ -20,16 +20,16 @@ header {
 }
 
 .header-right,
-.section-one-paragraph {
+.sec-one-paragraph {
   font-size: 18px;
   color: #e5e7eb;
 }
 
-.section-one {
+.sec-one {
   display: flex;
 }
 
-.section-one-left {
+.sec-one-left {
   height: fit-content;
 }
 
@@ -37,11 +37,11 @@ img {
   height: 250px;
 }
 
-.section-one-right {
+.sec-one-right {
   margin-left: 20px;
 }
 
-.container-one {
+.cont-one {
   padding-right: 10%;
   padding-left: 10%;
   padding-bottom: 35px;
