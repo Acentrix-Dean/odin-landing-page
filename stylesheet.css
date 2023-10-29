@@ -6,6 +6,7 @@ body {
 header {
   display: flex;
   gap: 15px;
+  margin-bottom: 50px;
 }
 
 .header-left {
@@ -18,4 +19,17 @@ header {
 
 .section-one-left {
   max-width: 50%;
+  height: 200px;
+}
+
+img {
+  height: 200px;
+}
+
+.section-one-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 50%;
 }
