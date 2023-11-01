@@ -30,12 +30,10 @@ header {
 }
 
 .sec-one-left {
-  height: fit-content;
   padding-right: 150px;
 }
 
 img {
-  object-fit: fill;
   max-width: 25vw;
   max-height: 25vh;
 }
@@ -62,4 +60,8 @@ h1 {
   font-size: 48px;
   font-weight: 800;
   color: #f9faf8;
+}
+
+a {
+  text-decoration: none;
 }
