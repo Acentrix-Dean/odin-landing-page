@@ -87,12 +87,18 @@ h2 {
 
 ul {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 50px;
 }
 
 .sec-two-image {
-  width: 15vw;
-  height: 12vh;
+  width: 8vw;
+  height: 15vh;
   border: solid 7px #3882f6;
   border-radius: 0.5rem;
+}
+
+li p {
+  width: 8vw;
+  text-align: center;
 }
