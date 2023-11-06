@@ -104,10 +104,17 @@ li p {
   text-align: center;
 }
 
-.sec-three-cont {
+.cont-three {
   display: flex;
   justify-content: center;
   background-color: #e5e7eb;
+}
+
+.sec-three-cont {
+  display: flex;
+  width: 600px;
+  flex-direction: column;
+  align-items: center;
 }
 .sec-three-para {
   width: 600px;
@@ -115,4 +122,11 @@ li p {
   font-weight: 300;
   font-style: italic;
   color: #1f2937;
+  margin-bottom: 0;
+}
+
+.sec-three-name {
+  margin-left: auto;
+  margin-top: 0;
+  font-weight: 600;
 }
