@@ -92,13 +92,13 @@ ul {
 }
 
 .sec-two-image {
-  width: 8vw;
-  height: 15vh;
+  width: 100px;
+  height: 100px;
   border: solid 7px #3882f6;
   border-radius: 0.5rem;
 }
 
 li p {
-  width: 8vw;
+  width: 100px;
   text-align: center;
 }
