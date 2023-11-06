@@ -107,7 +107,12 @@ li p {
 .sec-three-cont {
   display: flex;
   justify-content: center;
+  background-color: #e5e7eb;
 }
 .sec-three-para {
   width: 600px;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
 }
