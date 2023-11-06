@@ -89,6 +89,7 @@ ul {
   display: flex;
   justify-content: center;
   gap: 50px;
+  padding: 0;
 }
 
 .sec-two-image {
@@ -101,4 +102,12 @@ ul {
 li p {
   width: 100px;
   text-align: center;
+}
+
+.sec-three-cont {
+  display: flex;
+  justify-content: center;
+}
+.sec-three-para {
+  width: 600px;
 }
