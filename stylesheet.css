@@ -139,9 +139,21 @@ li p {
 .sec-four-cont {
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
   width: 800px;
+  height: 100px;
   margin: 50px;
   background-color: #3882f6;
+  border-radius: 0.5rem;
 }
 
-.sec-four-left;
+h3 {
+  color: #e5e7eb;
+  margin-bottom: 0;
+}
+
+.sec-four-left p {
+  color: #e5e7eb;
+  font-weight: 100;
+  margin-top: 0;
+}
