@@ -130,3 +130,18 @@ li p {
   margin-top: 0;
   font-weight: 600;
 }
+
+.cont-four {
+  display: flex;
+  justify-content: center;
+}
+
+.sec-four-cont {
+  display: flex;
+  justify-content: space-evenly;
+  width: 800px;
+  margin: 50px;
+  background-color: #3882f6;
+}
+
+.sec-four-left;
