@@ -166,3 +166,12 @@ h3 {
   border-style: solid;
   padding: 5px 20px;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
